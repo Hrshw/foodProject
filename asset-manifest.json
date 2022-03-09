@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hrshw/%20foodProject/static/css/main.17655c3c.css",
+    "main.js": "/Hrshw/%20foodProject/static/js/main.aae26a3f.js",
+    "index.html": "/Hrshw/%20foodProject/index.html",
+    "main.17655c3c.css.map": "/Hrshw/%20foodProject/static/css/main.17655c3c.css.map",
+    "main.aae26a3f.js.map": "/Hrshw/%20foodProject/static/js/main.aae26a3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17655c3c.css",
+    "static/js/main.aae26a3f.js"
+  ]
+}
